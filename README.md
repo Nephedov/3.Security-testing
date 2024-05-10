@@ -9,7 +9,8 @@
 #### Задание 1
 * Составлен <a href="https://docs.google.com/spreadsheets/d/1ATWeL4BfSa9oT4duK2W8mIqv1u4uxhohaoSh15Sd9O8/edit#gid=0">чек-лист</a> плана тестирования карточки товара, для выявления XSS и SQL-инъекций, на 66 проверок.
 
-
+---
+---
 
 ## Описание Задания 1
 
